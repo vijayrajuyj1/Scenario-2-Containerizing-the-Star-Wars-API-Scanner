@@ -29,7 +29,7 @@ $ sudo usermod -aG docker ubuntu
 **📥 Clone the Repository**
 
 ```bash
-$ git clone https://github.com/vijayarajuyj1/Scenario-2-Star-Wars-API-Container.git
+$ git clone https://github.com/vijayrajuyj1/Scenario-2-Containerizing-the-Star-Wars-API-Scanner.git
 ```
 
 **🏗 Build the Docker Image**
